@@ -4,7 +4,7 @@ import math
 import matplotlib.pyplot as plt
 import time
 
-start_time = time.time()
+start_time = time.time() #takes the current time (seconds)
 
 Pxs = []
 Pys = []
